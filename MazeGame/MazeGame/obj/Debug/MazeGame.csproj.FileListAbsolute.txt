@@ -1,0 +1,14 @@
+C:\Users\191216AM\Sample\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+C:\Users\191216AM\Sample\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+C:\Users\191216AM\Sample\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+C:\Users\191216AM\Sample\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\191216AM\Sample\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+C:\Users\191216AM\Sample\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
+C:\Users\191216AM\Sample\MazeGame\MazeGame\obj\Debug\MazeGame.csprojAssemblyReference.cache
+G:\Sample\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+G:\Sample\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+G:\Sample\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+G:\Sample\MazeGame\MazeGame\obj\Debug\MazeGame.csprojAssemblyReference.cache
+G:\Sample\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+G:\Sample\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+G:\Sample\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
